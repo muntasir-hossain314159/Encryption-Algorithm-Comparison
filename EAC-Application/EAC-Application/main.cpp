@@ -50,5 +50,4 @@ int main()
 
 	//print decryptedtext
 	cout << decryptedtext << endl;
-
 }
